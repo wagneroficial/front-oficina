@@ -1,0 +1,39 @@
+section#cadastrar{
+    text-align: center;
+}
+h3#cadastro{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
+
+fieldset{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dadosCarro{
+    width: 80%;
+    padding: 5px;
+}
+
+button#cancelar{
+    background-color: rgb(241, 80, 80);
+    padding: 5px 15px 5px 15px;
+    transition: all .5s;
+}
+
+button#cancelar:hover{
+    background-color: rgb(172, 5, 5);
+}
+
+button#salvar{
+    padding: 5px 20px 5px 20px;
+}
+
+button#salvar:hover{
+    background-color: blue;
+}
